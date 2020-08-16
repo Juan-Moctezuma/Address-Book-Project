@@ -6,7 +6,8 @@ This website represents a practical contact management system.
 The address book's code allows changes to get automatically 
 saved in your browser. Meaning that any added / deleted person(s), or 
 modifications done to elements within your address book will remain
-after refreshing or closing your browser. 
+after refreshing or closing your browser. Please note that your initial
+contacts are fictional characters that were included by default.
 
 ### Link
 Link on Github: https://juan-moctezuma.github.io/Address-Book-Project/
