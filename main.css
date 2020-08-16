@@ -24,9 +24,15 @@ body {
     margin: auto;
 }
 
-@media only screen and (max-width: 1396px) {
+@media only screen and (max-width: 1087px) {
     .ab-table { 
-       font-size: .5em; 
+       font-size: .1em; 
+    }
+ }
+
+ @media only screen and (min-width: 1086px) {
+    .ab-table { 
+       font-size: 1em; 
     }
  }
 
@@ -67,7 +73,7 @@ body {
 
 .edit, .delete, .ab-add-entry-col {
     /*flex-basis: 7.8%;*/
-    width: 105px;
+    width: 95px;
     text-align: center;
     cursor: pointer;
 }
