@@ -30,4 +30,4 @@ Link on Github: https://github.com/Juan-Moctezuma/Address-Book-Project_v2-PWA
    * ES6
    * jQuery
    * JSON
-   * Regular Expressions (For Form-Validation)
+   * Regular Expressions (used for: Form-Validation)
