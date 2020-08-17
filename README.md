@@ -18,6 +18,7 @@ No.
 ### Can this project become a Progressive Web Application (PWA)?
 Yes. Please click the following link to observe the differences 
 between a static / Vanilla JavaScript based website and a PWA.
+
 Link on Github: https://github.com/Juan-Moctezuma/Address-Book-Project_v2-PWA
 
 ### Technologies
