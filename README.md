@@ -10,7 +10,7 @@ after refreshing or closing your browser. Please note that your initial
 contacts are fictional characters that were included by default.
 
 ### Link
-Link on Github: https://juan-moctezuma.github.io/Address-Book-Project/
+Github Webpage: https://juan-moctezuma.github.io/Address-Book-Project/
 
 ### Does the code require a local web server to run?
 No.
@@ -19,7 +19,7 @@ No.
 Yes. Please click the following link to observe the differences 
 between a static / Vanilla JavaScript based website and a PWA.
 
-Link on Github: https://github.com/Juan-Moctezuma/Address-Book-Project_v2-PWA
+Github Repository: https://github.com/Juan-Moctezuma/Address-Book-Project_v2-PWA
 
 ### Technologies
 
