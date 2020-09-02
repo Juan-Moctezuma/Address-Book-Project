@@ -25,7 +25,7 @@ Github Repository: https://github.com/Juan-Moctezuma/Address-Book-Project_v2-PWA
 
 1. HTML
 2. CSS
-   * Responsive Framework: Bootstrap
+   * Responsive Framework: Bootstrap 4
 3. JavaScript
    * ES6
    * jQuery
