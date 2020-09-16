@@ -1,4 +1,4 @@
-# Address-Book-Project
+# Address Book
 
 ### Introduction
 
@@ -25,7 +25,6 @@ Github Repository: https://github.com/Juan-Moctezuma/Address-Book-Project_v2-PWA
 <img src="Image/Directory-Address-Book.png" width="50%">
 
 ### Technologies
-
 1. HTML5
 2. CSS3
    * Responsive Framework: Bootstrap 4
