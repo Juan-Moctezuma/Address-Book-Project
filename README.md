@@ -21,10 +21,13 @@ between a static / Vanilla JavaScript based website and a PWA.
 
 Github Repository: https://github.com/Juan-Moctezuma/Address-Book-Project_v2-PWA
 
+### Directory Tree
+<img src="Image/Directory-Address-Book.png" width="50%">
+
 ### Technologies
 
-1. HTML
-2. CSS
+1. HTML5
+2. CSS3
    * Responsive Framework: Bootstrap 4
 3. JavaScript
    * ES6
